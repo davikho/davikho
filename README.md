@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on [Integrator](Gestión de archivos)
+- 🔭 I’m currently working on [Integrator](Gestión de archivos)
 
-- 🤝 I’m looking for help with **Infoparticipa - Spain**
+- 🤝 I’m currently working on **Infoparticipa - Spain**
 
 - 💬 Ask me about **Angular 18**
 
