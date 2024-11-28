@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm David Flores</h1>
 <h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- 🔭 I’m currently working on [Gol](Soccer System)
+- 🔭 I’m currently working on [Gol](gol.america3000.site)
+
+- 🌱 I’m currently learning **Kotlin**
+
+- 👯 I’m looking to collaborate on [Integrator](Gestión de archivos)
+
+- 🤝 I’m looking for help with **Infoparticipa - Spain**
+
+- 💬 Ask me about **Angular 18**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
